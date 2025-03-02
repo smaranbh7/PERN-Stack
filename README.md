@@ -51,9 +51,9 @@ todo/
    ```
    DB_USER=your_username
    DB_PASSWORD=your_password
-   DB_HOST=localhost
+   DB_HOST=your_host
    DB_PORT=5432
-   DB_NAME=perntodo
+   DB_NAME=your_DB_Name
    ```
 4. Start the server:
    ```bash
